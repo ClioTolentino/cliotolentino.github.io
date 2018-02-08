@@ -749,7 +749,8 @@ button, input, select, textarea {
 [VCard Modules]
 */
 .content-wrap {
-  -webkit-overflow-scrolling: touch; }
+  -webkit-overflow-scrolling: touch; 
+}
 
 #top-navigation {
   z-index: 3; }
@@ -757,7 +758,7 @@ button, input, select, textarea {
     color: #a7a7a7; }
     #top-navigation .ident .vc-photo {
       min-height: 360px;
-      background: url("/assets/images/avatar.png");
+      background: url("/assets/custom/images/avatar.png");
       background-position: center center;
       background-repeat: no-repeat;
       background-size: cover;
